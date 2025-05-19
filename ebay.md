@@ -2,6 +2,10 @@
 
 ---
 
+<img width="744" alt="Screenshot 2025-05-19 at 19 47 20" src="https://github.com/user-attachments/assets/277df7aa-e0e2-4502-95b5-b4c4bf12be0d" />
+
+
+
 ## 一、常见 HR 面试问题（技术岗位）
 
 ### 1. 请您简单介绍一下自己。
