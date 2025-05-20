@@ -9,21 +9,25 @@
 
 **1. Self-Introduction (60 seconds)**
 
-Hi, I’m Xiangrui Kong, currently based in Dublin. I have a Master’s degree in Computer Science from Trinity College Dublin and about 3 years of practical software engineering experience.
+Hi, I’m Xiangrui Kong, a full-stack engineer based in Dublin with a Master’s in Computer Science from Trinity College. Over the past 3 years, I’ve worked across startups and enterprise environments, focusing on internal platforms, backend systems, and cloud services.
 
-Most recently I worked at Velocity Global, where I built scalable features for CMS systems using TypeScript, React, AWS Lambda, and DynamoDB. Prior to that, I contributed to a growing startup by developing energy data pipelines, cloud-integrated services, and mobile features. I also have strong backend experience from my time at PepsiCo, where I used Java, Spring Boot, and Angular to build enterprise tools.
+At Velocity Global, I built CMS features using React, AWS Lambda, and DynamoDB—one project involved designing a ZIP batch download tool with a custom progress bar, improving user efficiency.
 
-My experience spans full-stack development, cloud services, and distributed systems. I'm passionate about building reliable developer tools, and I find Workday's mission of helping customers adopt enterprise platforms especially exciting.
+Before that at Energy Elephant, I worked on data pipelines and backend services to forecast energy usage, using Python, Redis, PostgreSQL, and AWS S3. I also helped ship Flutter-based mobile features and set up GitLab CI/CD pipelines.
+
+Earlier, I interned at PepsiCo, building secure enterprise tools with Spring Boot and Angular, and implementing authentication with JWT and OAuth.
+
+I enjoy building scalable systems and developer tools, and I’m excited about Workday’s focus on customer adoption, collaboration, and functional programming.
 
 ---
 
-**2. Why This Role / Why Workday**
+**2. Why This Role / Why Workday**  
 
-I’m particularly excited about this role because the CDT team is building tools that help customers adopt Workday’s solutions reliably and efficiently.
+I'm particularly excited about this role because the CDT team is working on tooling that makes customer onboarding and configuration faster and more reliable. I’ve had hands-on experience building internal CMS tools and backend services that streamline operations for end users, so the mission of enabling seamless adoption really speaks to me.
 
-I’ve worked on internal tools and customer-facing platforms at scale, and the mission of simplifying customer onboarding really resonates with me.
+I'm also eager to work in an environment that uses functional programming with Scala. While I haven’t used Scala professionally, I’ve applied FP principles in JavaScript—working with pure functions, immutability, and composition—and I’m excited to deepen that skill set.
 
-Workday’s culture of putting people first and investing in long-term innovation aligns with my values and growth goals.
+Beyond the technical fit, I really appreciate Workday’s emphasis on people-first culture and long-term growth. I’m looking for a place where I can contribute to meaningful systems while growing as an engineer, and Workday feels like that kind of place.
 
 ---
 
