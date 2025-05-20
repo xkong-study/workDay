@@ -9,24 +9,22 @@
 ## 一、常见 HR 面试问题（技术岗位）
 
 ### 1. 请您简单介绍一下自己。
-- **回答思路/准备建议**：
-  - 概述教育和工作经历，突出与岗位相关的技能和成就。
-  - 强调在 TCD 攻读计算机硕士期间的项目经验；
-  - 提及在爱尔兰的实习和工作中使用 AWS、Kubernetes、微服务架构；
-  - 举例说明 Energy Elephant 和 Velocity Global 的工作内容；
-  - 说明为什么对 Cloud SRE 岗位感兴趣。
-- **面试意图**：
-  - 考察沟通能力、表达逻辑；
-  - 验证简历内容与岗位匹配度。
+Hi, I’m Xiangrui Kong, based in Dublin with a Master’s in Computer Science from Trinity College and about 3 years of experience in backend and infrastructure engineering.
 
-### 2. 你为什么选择这个职位或来到 eBay 应聘？
-- **回答思路/准备建议**：
-  - 表达对云基础设施和系统可靠性的兴趣；
-  - 结合自己接触 AWS 和 Kubernetes 的经历；
-  - 说明希望在全球平台中发挥能力；
-  - 表达对 eBay 技术规模、国际团队、创新文化的欣赏。
-- **面试意图**：
-  - 评估动机、理解程度、目标契合度。
+At Velocity Global, I worked on AWS Lambda and DynamoDB to support a contractor CMS. In one incident, contract status became inconsistent due to a silent Lambda failure. I traced it via DynamoDB streams and CloudWatch, then wrote a Python script to scan, patch, and restore state transitions—cutting recovery time and preventing similar issues with added alerts.
+
+At Energy Elephant, I built Python-based data pipelines for energy reports. I used Redis to schedule batch jobs and added S3 upload validation with retries and logging. I also maintained GitLab CI/CD and improved visibility through metrics and log alerts.
+
+I love using code to improve system reliability and reduce operational pain.
+
+### 2. 你为什么选择这个职位或来到 eBay 应聘？ 
+What draws me to eBay is how it powers real economic opportunity for millions globally. Personally, I’ve used eBay for tech collectibles, and I’m fascinated by how its platform handles high-traffic, long-tail search, and seller tools.     
+
+I’m excited by the challenge of supporting such large-scale, latency-sensitive systems. The Cloud SRE role offers the chance to work on critical systems that directly impact buyer and seller experience.          
+
+My experience with AWS, Kubernetes, and CI/CD maps well to this role. I’ve enjoyed tackling similar problems—like autoscaling, failover design, and observability—and I look forward to doing that at global scale.      
+
+I also appreciate eBay’s engineering culture, especially its support for open-source contribution and its focus on reliability and automation. That’s the kind of environment where I know I’ll learn and grow fast.        
 
 ### 3. 你的职业规划是什么？未来三到五年想实现什么目标？
 - **回答思路/准备建议**：
@@ -36,21 +34,6 @@
 - **面试意图**：
   - 了解职业目标是否清晰、是否具备成长意愿。
 
-### 4. 你认为自己的优点和缺点是什么？
-- **回答思路/准备建议**：
-  - 优点如：技术涉猎广、学习能力强、责任心强、适应力好；
-  - 缺点可举“过于追求细节”等可控问题，并说明改进措施。
-- **面试意图**：
-  - 考察自我认知、改进意识。
-
-### 5. 请谈谈你曾经遇到的一个团队合作或冲突经历，以及你的处理方式。
-- **回答思路/准备建议**：
-  - 选择真实项目合作中的分歧；
-  - 说明沟通方式、解决过程和结果；
-  - 可提及与跨文化/跨时区团队的合作经验。
-- **面试意图**：
-  - 考察沟通能力、团队协作能力、冲突管理能力。
-
 ### 6. 为什么离开上一份工作？
 - **回答思路/准备建议**：
   - 说明 Velocity Global 因组织结构调整导致团队关闭；
@@ -59,13 +42,6 @@
 - **面试意图**：
   - 判断职业稳定性和离职原因合理性。
 
-### 7. 你目前在爱尔兰的生活和工作情况如何？（如签证、入职时间）
-- **回答思路/准备建议**：
-  - 清晰说明合法居留和工作状态；
-  - 表明可以立即入职；
-  - 如果有特殊签证状态也应如实说明。
-- **面试意图**：
-  - 确认工作许可和入职可行性。
 
 ### 8. 你的薪资期望是多少？
 - **回答思路/准备建议**：
@@ -74,14 +50,6 @@
   - 强调发展空间和岗位契合度也同样重要。
 - **面试意图**：
   - 确认预算匹配性、谈判合理性。
-
-### 9. 你对公司的了解有多少？为什么想来我们公司？
-- **回答思路/准备建议**：
-  - 提到 eBay 的全球化、平台技术、文化（如“Be for Everyone”）；
-  - 说明对其云基础设施团队的兴趣；
-  - 展现做过功课的诚意。
-- **面试意图**：
-  - 判断候选人对公司是否真正感兴趣、是否匹配文化。
 
 ### 10. 你还有什么想了解我们的地方吗？
 - **回答思路/准备建议**：
